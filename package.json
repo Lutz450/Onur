@@ -1,0 +1,16 @@
+{
+  "name": "mkabot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Onur",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.3.1",
+    "moment": "^2.27.0"
+  }
+}
